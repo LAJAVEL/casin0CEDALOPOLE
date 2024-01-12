@@ -1,2 +1,5 @@
 # casin0CEDALOPOLE
-tp Java
+
+tpJAVA
+
+Executez le SlotMachine pour le coté interface visuel sinon le Main pour le terminal.
